@@ -9,5 +9,5 @@ Para utilizar, crie um novo projeto Flutter em seu computador e cole estes arqui
 <br>
 Não esqueça de adicionar a seguinte dependência ao seu projeto, modificando este arquivo como demonstrado:<br>
 <ul>
-  <li>shared_preferences: ^0.5.12+4</li>
+  <li><pre>shared_preferences: ^0.5.12+4</pre></li>
 </ul>
